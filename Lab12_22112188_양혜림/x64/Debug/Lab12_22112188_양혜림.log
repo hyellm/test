@@ -1,0 +1,30 @@
+﻿  Lab12_main.cpp
+C:\Users\y2h75\Desktop\# 수업\# Programming\C++\2022 - 2\실습\Lab12_22112188_양혜림\Lab12_main.cpp(20,1): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+C:\Users\y2h75\Desktop\# 수업\# Programming\C++\2022 - 2\실습\Lab12_22112188_양혜림\Lab12_main.cpp(26,3): warning C4551: 함수 호출에 인수 목록이 없습니다.
+C:\Users\y2h75\Desktop\# 수업\# Programming\C++\2022 - 2\실습\Lab12_22112188_양혜림\Lab12_main.cpp(34,7): warning C4101: 'keyWord' :참조되지 않은 지역 변수입니다.
+C:\Users\y2h75\Desktop\# 수업\# Programming\C++\2022 - 2\실습\Lab12_22112188_양혜림\Lab12_main.cpp(29,21): warning C4101: 'pTN' :참조되지 않은 지역 변수입니다.
+C:\Users\y2h75\Desktop\# 수업\# Programming\C++\2022 - 2\실습\Lab12_22112188_양혜림\Trie.h(47,1): error C2665: 'TrieNode<E>::TrieNode': 4개의 오버로드 중 모든 인수 형식을 변환할 수 있는 오버로드가 없습니다.
+          with
+          [
+              E=MyVoca *
+          ]
+C:\Users\y2h75\Desktop\# 수업\# Programming\C++\2022 - 2\실습\Lab12_22112188_양혜림\TrieNode.h(19,2): message : 'TrieNode<E>::TrieNode(char,E)'일 수 있습니다.
+          with
+          [
+              E=MyVoca *
+          ]
+C:\Users\y2h75\Desktop\# 수업\# Programming\C++\2022 - 2\실습\Lab12_22112188_양혜림\Trie.h(47,25): message : 'TrieNode<E>::TrieNode(char,E)': 인수 2을(를) 'const char [1]'에서 'E'(으)로 변환할 수 없습니다.
+          with
+          [
+              E=MyVoca *
+          ]
+C:\Users\y2h75\Desktop\# 수업\# Programming\C++\2022 - 2\실습\Lab12_22112188_양혜림\Trie.h(47,32): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 괄호가 있는 함수 스타일 캐스트가 필요합니다.
+C:\Users\y2h75\Desktop\# 수업\# Programming\C++\2022 - 2\실습\Lab12_22112188_양혜림\TrieNode.h(19,2): message : 'TrieNode<E>::TrieNode' 선언을 참조하십시오.
+          with
+          [
+              E=MyVoca *
+          ]
+C:\Users\y2h75\Desktop\# 수업\# Programming\C++\2022 - 2\실습\Lab12_22112188_양혜림\Trie.h(47,1): message : 인수 목록 '(char, const char [1])'을(를) 일치시키는 동안
+C:\Users\y2h75\Desktop\# 수업\# Programming\C++\2022 - 2\실습\Lab12_22112188_양혜림\Trie.h(44): message : 클래스 템플릿 멤버 함수 'Trie<MyVoca *>::Trie(std::string)'을(를) 컴파일하는 중입니다.
+C:\Users\y2h75\Desktop\# 수업\# Programming\C++\2022 - 2\실습\Lab12_22112188_양혜림\Lab12_main.cpp(28): message : 컴파일되는 함수 템플릿 인스턴스화 'Trie<MyVoca *>::Trie(std::string)'에 대한 참조를 확인하세요.
+C:\Users\y2h75\Desktop\# 수업\# Programming\C++\2022 - 2\실습\Lab12_22112188_양혜림\Lab12_main.cpp(28): message : 컴파일되는 클래스 템플릿 인스턴스화 'Trie<MyVoca *>'에 대한 참조를 확인하세요.
