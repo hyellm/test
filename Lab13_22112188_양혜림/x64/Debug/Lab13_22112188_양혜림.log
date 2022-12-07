@@ -1,0 +1,6 @@
+﻿  Lab13_main.cpp
+C:\Users\y2h75\Desktop\# 수업\# Programming\C++\2022 - 2\실습\Lab13_22112188_양혜림\Graph.h(190,11): warning C4101: 'pVrtx' :참조되지 않은 지역 변수입니다.
+C:\Users\y2h75\Desktop\# 수업\# Programming\C++\2022 - 2\실습\Lab13_22112188_양혜림\Graph.h(246,1): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\y2h75\Desktop\# 수업\# Programming\C++\2022 - 2\실습\Lab13_22112188_양혜림\Graph.h(238,10): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+C:\Users\y2h75\Desktop\# 수업\# Programming\C++\2022 - 2\실습\Lab13_22112188_양혜림\Lab13_main.cpp(200,1): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+  Lab13_22112188_양혜림.vcxproj -> C:\Users\y2h75\Desktop\# 수업\# Programming\C++\2022 - 2\실습\Lab13_22112188_양혜림\x64\Debug\Lab13_22112188_양혜림.exe
